@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ChristianAllen0407/8f2814a8-33fb-4d77-8df0-11c5c456e81f/2e7bc27b-ec5f-4398-a38d-ecc00111cc80/_apis/work/boardbadge/5015019f-17fb-4046-8b43-c6239e9dad1d)](https://dev.azure.com/ChristianAllen0407/8f2814a8-33fb-4d77-8df0-11c5c456e81f/_boards/board/t/2e7bc27b-ec5f-4398-a38d-ecc00111cc80/Microsoft.RequirementCategory)
 # PowerShell Language Support for Visual Studio Code
 
 [![Build Status](https://dev.azure.com/powershell/vscode-powershell/_apis/build/status/PowerShell.vscode-powershell?branchName=master)](https://dev.azure.com/powershell/vscode-powershell/_build/latest?definitionId=51&branchName=master)
